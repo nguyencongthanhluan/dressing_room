@@ -1,0 +1,23 @@
+.hovercard {
+  height: 10px;
+  position: relative;
+  text-align: center;
+}
+.cardinfo {
+  position: absolute;
+  bottom: -15px;
+  left: 0;
+  right: 0;
+}
+.cardtitle {
+  font-size: 22px;
+  font-weight: 500;
+  line-height: 26px;
+}
+.style13 {
+  height: 10px;
+  border: 0;
+  box-shadow: 0 10px 10px -10px #8c8b8b inset;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
